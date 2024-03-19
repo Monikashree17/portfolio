@@ -45,7 +45,7 @@
     list-style: none;
   
   }
-  nav li a{
+  nav ul li a{
     font-size: 18px;
     text-transform: uppercase;
     padding: 0px 30px;
@@ -548,13 +548,7 @@
     border-radius: 10px;
     font-size: 105%;
   }
-  /* .contact-right form.buttontype {
-    color: rgb(116, 159, 253);
-  } */
-  /* .contact-right form{
-    display: inline-block;
-    background: rgb(116, 159, 253);
-  } */
+
   .btn {
     display: block;
     margin: 50px auto;                                                                           
